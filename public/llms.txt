@@ -1,0 +1,100 @@
+# Alexi — Generative Engine Optimization Map
+
+> A kitesurfing-focused business with an adventurous, outdoor spirit centered around water sports. The brand likely evokes energy, freedom, and the thrill of riding wind and waves.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Fuel your outdoor spirit with Alexi&#39;s kitesurfing adventures and white river kayaking thrills. Dive into the ultimate water sports experience and chase the rush today.
+
+### Lessons & Trips
+https://example.com/lessons-trips
+Unlock your potential with expert-led kitesurfing and white river kayaking lessons. Book your trip now and turn wild water into your personal playground with Alexi.
+
+### About Alexi
+https://example.com/about
+Discover the passion of Alexi Cheyenne Figueroa and the relentless drive to share white river kayaking and kitesurfing freedom. Get inspired by our story and join the adventure.
+
+### Contact
+https://example.com/contact
+Ready to ride? Reach out to Alexi and kickstart your kitesurfing or white river kayaking escape. Your next adrenaline-packed adventure is just a message away.
+
+### Products
+https://example.com/products
+Our Products - Alexi
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Alexi
+
+### Category
+https://example.com/category/:slug
+Products - Alexi
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Alexi
+A kitesurfing-focused business with an adventurous, outdoor spirit centered around water sports. The brand likely evokes energy, freedom, and the thrill of riding wind and waves.
+
+## Target Audience
+- Adventure-Seeking Young Professionals
+- Eco-Conscious Travelers
+- Water Sports Enthusiasts
+
+## Industry
+Water Sports / Outdoor Adventure
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
