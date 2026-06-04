@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "c491e947-cb77-49ff-bfc4-1ed699174ee9";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">Skip to main content</a>
+<script>window.ZAPPY_WEBSITE_ID = "c491e947-cb77-49ff-bfc4-1ed699174ee9";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">Skip to main content</a>
   <nav class="navbar">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -855,10 +855,10 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="home-hero-section" data-layout-spec="Home-hero" data-hero-type="fullscreen-scrim" id="home-hero-section" style="margin-top: -80px !important; padding-top: 80px !important;">
   <!-- Background Image -->
   <div class="hero-bg-container">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-image-1" data-context="A cinematic wide-angle shot of a kitesurfer carving across bright turquoise open water beneath a dramatic wind-textured sky with scattered clouds, spray trailing behind the rider, sun breaking through, vibrant ocean blues and warm golden light, action sports photography style" width="1200" height="600" src="/assets/site-home-hero-image-1.webp" alt="Kitesurfer riding wind and waves on a bright ocean day" class="hero-bg-image">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="home-hero-image-1" data-context="A cinematic wide-angle shot of a kitesurfer carving across bright turquoise open water beneath a dramatic wind-textured sky with scattered clouds, spray trailing behind the rider, sun breaking through, vibrant ocean blues and warm golden light, action sports photography style" width="1200" height="600" src="/assets/site-home-hero-image-1.webp" alt="Kitesurfer riding wind and waves on a bright ocean day" class="hero-bg-image" data-hero-background="true" data-element-type="image" data-element-id="img-1780602984124-d87fuls63">
   </div>
 
   <!-- Scrim Overlay -->
@@ -885,11 +885,11 @@
   <!-- Content Overlay Group -->
   <div class="hero-overlay-group">
     <div class="hero-content-wrapper">
-      <h1 class="hero-headline">Chase the Wind.<br>Ride the Freedom.</h1>
+      <h1 class="hero-headline" style="">Chase the Wind.<br>Ride the Freedom. Test by Ido</h1>
       <h3 class="hero-subtitle">Alexi is your gateway to world-class kitesurfing — offering expert lessons, guided coastal adventures, and unforgettable sessions for every rider.</h3>
       <div class="hero-cta-group">
-        <a href="/contact" class="btn-primary hero-btn">Get in Touch</a>
-        <a href="/lessons" class="btn-secondary hero-btn">Lessons &amp; Trips</a>
+        <a href="/contact" class="btn-primary hero-btn" data-element-type="button" data-element-id="btn-1780602984112-jz0797al5" data-native-element="true">Get in Touch</a>
+        <a href="/lessons" class="btn-secondary hero-btn" data-element-type="button" data-element-id="btn-1780602984112-bdj5dpq6k" data-native-element="true">Lessons &amp; Trips</a>
       </div>
     </div>
   </div>
