@@ -80,6 +80,9 @@ Skip to main content
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -127,7 +130,7 @@ Products
 
 
 
-# Chase the Wind.Ride the Freedom.
+# Chase the Wind.Ride the Freedom. Test by Ido
 
 
 ### Alexi is your gateway to world-class kitesurfing — offering expert lessons, guided coastal adventures, and unforgettable sessions for every rider.
@@ -583,6 +586,9 @@ Skip to main content
 
 
 - Products Products
+
+
+
 
 
 
@@ -1135,6 +1141,9 @@ Skip to main content
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -1573,6 +1582,9 @@ Skip to main content
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -1976,6 +1988,9 @@ Products - Alexi
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -2234,6 +2249,9 @@ Cart - Alexi
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -2464,6 +2482,9 @@ Checkout - Alexi
 
 
 - Products Products
+
+
+
 
 
 
@@ -2888,6 +2909,9 @@ Login - Alexi
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -3125,6 +3149,9 @@ My Account - Alexi
 
 
 - Products Products
+
+
+
 
 
 
@@ -3525,6 +3552,9 @@ Order Received! - Alexi
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -3783,6 +3813,9 @@ Return Policy - Alexi
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -3814,7 +3847,7 @@ Products
 # Return Policy
 
 
-Last Updated: 6/4/2026
+Last Updated: 6/13/2026
 
 
 
@@ -4070,6 +4103,9 @@ Product Details - Alexi
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -4306,6 +4342,9 @@ Products - Alexi
 
 
 
+
+
+
 - Home
 - Lessons & Trips
 - About Alexi
@@ -4526,7 +4565,25 @@ Privacy Policy
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Products Products
+
+
+
 
 
 
@@ -4540,6 +4597,16 @@ Privacy Policy
 
 
 
+
+
+
+
+
+
+
+
+
+Products
 
 
 
@@ -4805,7 +4872,25 @@ Accessibility Statement
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Products Products
+
+
+
 
 
 
@@ -4819,6 +4904,16 @@ Accessibility Statement
 
 
 
+
+
+
+
+
+
+
+
+
+Products
 
 
 
@@ -5090,7 +5185,25 @@ Terms & Conditions
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Products Products
+
+
+
 
 
 
@@ -5104,6 +5217,16 @@ Terms & Conditions
 
 
 
+
+
+
+
+
+
+
+
+
+Products
 
 
 
